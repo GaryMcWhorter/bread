@@ -1,0 +1,38 @@
+{
+  "name": "bread",
+  "displayName": "Bread",
+  "description": "A comfy dark theme for VS Code",
+  "version": "0.0.1",
+  "author": {
+    "name": "Gary McWhorter",
+    "email": "garymcwr@gmail.com"
+  },
+  "icon": "images/bread.png",
+  "galleryBanner": {
+    "color": "#302c2e",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "Dark",
+    "Warm Theme",
+    "Warm",
+    "Bread"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bread",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bread-color-theme.json"
+      }
+    ]
+  }
+}
