@@ -7,7 +7,16 @@
     "name": "Gary McWhorter",
     "email": "garymcwr@gmail.com"
   },
-  "icon": "images/bread.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GaryMcWhorter/bread"
+  },
+  "bugs": {
+    "url": "https://github.com/GaryMcWhorter/bread/issues",
+    "email": "garymcwr@gmail.com"
+  },
+  "homepage": "https://github.com/GaryMcWhorter/bread/blob/main/README.md",
+  "icon": "images/bread32x4.png",
   "galleryBanner": {
     "color": "#302c2e",
     "theme": "dark"
